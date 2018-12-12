@@ -1,0 +1,9 @@
+.Tilt {
+	 background:linear-gradient(89deg, #FF5EDF 0%,#04C8DE 100%);
+	 /*z-index: -1;*/
+	/* width:100%;*/
+}
+
+.logo-container{
+	max-width: 200px;
+}
