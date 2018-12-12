@@ -1,5 +1,6 @@
 {
   "name": "face-recognition",
+  "homepage": "https://www.laojuren.club/face-recognition/build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
